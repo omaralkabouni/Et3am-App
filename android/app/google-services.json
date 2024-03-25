@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624517829610",
+    "project_id": "et3am-9d260",
+    "storage_bucket": "et3am-9d260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624517829610:android:9765e0f4ad4abb62625893",
+        "android_client_info": {
+          "package_name": "com.example.et3am"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-eeCnIZVJC1yQAsH5He0W--gUdzQSeNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
